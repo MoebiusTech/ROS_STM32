@@ -1,5 +1,5 @@
 # ROS_STM32
-## ROS build is based on Linux version: Ubuntu 18.04 LTS First, you need to install a virtual machine and Linux operating system. Refer to google for the installation process
+## ROS build is based on Linux version: Ubuntu 16.04 LTS First, you need to install a virtual machine and Linux operating system. Refer to google for the installation process
 
 Continuous improvement... If you have any questions, please contact the author for feedback. Please indicate the source for reprinting. Store link: Moebius Technology
 
